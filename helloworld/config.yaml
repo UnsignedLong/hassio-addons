@@ -3,6 +3,6 @@ description: "This is an add-on"
 version: "0.0.1"
 slug: "helloworld"
 init: false
-image: "ghcr.io/UnsignedLong/helloworld-{arch}"
+image: "ghcr.io/unsignedlong/helloworld-{arch}"
 arch:
   - amd64
