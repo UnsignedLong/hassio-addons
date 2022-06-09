@@ -1,0 +1,7 @@
+name: "Hello world"
+description: "This is an add-on"
+version: "0.0.1"
+slug: "hello_world"
+init: false
+arch:
+  - amd64
