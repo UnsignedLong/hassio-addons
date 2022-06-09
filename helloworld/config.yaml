@@ -1,7 +1,8 @@
 name: "Hello world"
 description: "This is an add-on"
 version: "0.0.1"
-slug: "hello_world"
+slug: "helloworld"
 init: false
+iamge: "ghcr.io/UnsignedLong/helloworld-{arch}"
 arch:
   - amd64
